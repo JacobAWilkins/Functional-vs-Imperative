@@ -1,4 +1,18 @@
-// Jacob Wilkins
+/*H***************************************************************************
+* FILENAME :        functional.java
+*
+* DESCRIPTION :
+*       Finds sum of sqaures, pell numbers, and powers for numbers 1-15
+*
+* NOTES :
+*       The purpose of this code is to demonstrate
+*       functional programming with simple calculations.
+*
+*       Copyright 2018, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    27 Nov 18
+*
+*H*/
 
 import java.util.function.UnaryOperator;
 import java.util.function.BinaryOperator;
