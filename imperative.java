@@ -1,4 +1,18 @@
-// Jacob Wilkins
+/*H***************************************************************************
+* FILENAME :        imperative.java
+*
+* DESCRIPTION :
+*       Finds sum of sqaures, pell numbers, and powers for numbers 1-15
+*
+* NOTES :
+*       The purpose of this code is to demonstrate
+*       imperative programming with simple calculations.
+*
+*       Copyright 2018, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    27 Nov 18
+*
+*H*/
 
 public class hmwk_04_imperative {
 
